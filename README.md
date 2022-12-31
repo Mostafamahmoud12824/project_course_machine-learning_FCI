@@ -18,3 +18,4 @@
 * provide a written report with the equations you implement with descriptions for each one, your results, and the figures. Also, you will deliver the code and it should run with correct results.
 * The code should has clear documentations for each variable and its connection to the equations you will implement.
 * The code should be able to run without any changing for any number of features (so, if we change the data to have 3 features as input for example, all computations should work without any changes). Without writing these functions in general form, you lose points.
+* Reducing Loss: Optimizing Learning Rate

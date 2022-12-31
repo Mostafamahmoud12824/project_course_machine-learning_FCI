@@ -1,6 +1,5 @@
 # project_course_machine-learning_FCI
-# In this project 
-# Given the attached dataset for regression problem with one input and one output, do the following:
+# In this project Given the attached dataset for regression problem with one input and one output, do the following:
 -----------------------
 * LOAD regression_data.csv to dataframe pandas ( the first column is input x and the second column is the output)
 * plot the data as scatterplot

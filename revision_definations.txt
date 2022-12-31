@@ -1,0 +1,24 @@
+What Is a Sample?
+- A sample is a single row of data.
+
+What Is a Batch?
+- The batch size is a hyperparameter that defines the number of samples to work through before updating the internal model parameters.
+
+- Batch Size = Size of Training Set
+
+What Is an Epoch
+عدد المرات اللي بيتعلم فيها الموديل من خلال اتدريب مجموعه من البيانات
+ 
+What Is the Difference Between Batch and Epoch?
+
+- The batch size is a number of samples processed before the model is updated.
+
+- The number of epochs is the number of complete passes through the training dataset
+
+training data  مش هو اللي بيدل علي كفاءه الموديل
+increase error validation => over fit
+decrease error validation => model كويس fit
+
+حل مشكلة الارتباط الخطي Linear regression بإستخدام خوارزمية Gradient Descent.
+
+يمكن استخدام  الانحدار regression للتنبؤ بقيمة y ذات علاقة خطية مع متغير ما x عن طريق استنباط قيمة المعاملين m و b لانتاج المعادلة الخطية y = mx + b.

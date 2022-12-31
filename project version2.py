@@ -7,7 +7,7 @@ from matplotlib import cm               #use in Creating Colormaps in Matplotlib
 #---------------------------------------------------------------
 # LOAD regression_data.csv to dataframe pandas
 
-path = 'F://1//regression_data.csv'
+path = 'c://users//Mostafa Mahmoud//regression_data.csv'
 data = pd.read_csv(path, header=None, names=['input' , 'output'])
 
 # display first samples of data and see the describe
